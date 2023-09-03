@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThorToptanHirdavat", "ThorToptanHirdavat\ThorToptanHirdavat.csproj", "{6C194D2B-B632-422A-8F7E-992DA69A625E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{06C2841A-5601-42FA-AE84-A89FB2D792A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C194D2B-B632-422A-8F7E-992DA69A625E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C194D2B-B632-422A-8F7E-992DA69A625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C194D2B-B632-422A-8F7E-992DA69A625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C194D2B-B632-422A-8F7E-992DA69A625E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C2841A-5601-42FA-AE84-A89FB2D792A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C2841A-5601-42FA-AE84-A89FB2D792A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C2841A-5601-42FA-AE84-A89FB2D792A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C2841A-5601-42FA-AE84-A89FB2D792A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B57D94-7859-4E1A-B72B-2D4518288F74}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.csproj.AssemblyReference.cache
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.csproj.SuggestedBindingRedirects.cache
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.Login.resources
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.Properties.Resources.resources
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.csproj.GenerateResource.cache
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.csproj.CoreCompileInputs.cache
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\ThorToptanHirdavat.exe.config
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\ThorToptanHirdavat.exe
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\ThorToptanHirdavat.pdb
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.exe
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.pdb
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\DataAccessLayer.dll
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\EntityFramework.dll
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\DataAccessLayer.pdb
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\DataAccessLayer.dll.config
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\bin\Debug\EntityFramework.xml
+C:\Users\90542\source\repos\ThorToptanHirdavat\ThorToptanHirdavat\obj\Debug\ThorToptanHirdavat.csproj.CopyComplete
